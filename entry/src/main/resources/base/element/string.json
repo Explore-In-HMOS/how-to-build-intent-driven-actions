@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Intent-driven watch actions sample"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Intent-driven watch actions"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Intent Actions"
+    },
+    {
+      "name": "home_title",
+      "value": "Actions"
+    },
+    {
+      "name": "home_status_default",
+      "value": "Choose an action"
+    },
+    {
+      "name": "message_workout_started",
+      "value": "Workout started"
+    },
+    {
+      "name": "message_home_contact_ready",
+      "value": "Home contact ready"
+    },
+    {
+      "name": "message_timer_started",
+      "value": "Timer started"
+    },
+    {
+      "name": "message_action_ready",
+      "value": "Action ready"
+    },
+    {
+      "name": "action_start_workout",
+      "value": "Start workout"
+    },
+    {
+      "name": "action_start_workout_short",
+      "value": "Workout"
+    },
+    {
+      "name": "action_start_workout_desc",
+      "value": "Begin a basic session"
+    },
+    {
+      "name": "action_call_home",
+      "value": "Call home"
+    },
+    {
+      "name": "action_call_home_short",
+      "value": "Home"
+    },
+    {
+      "name": "action_call_home_desc",
+      "value": "Open contact card"
+    },
+    {
+      "name": "action_set_timer",
+      "value": "Set timer"
+    },
+    {
+      "name": "action_set_timer_short",
+      "value": "Timer"
+    },
+    {
+      "name": "action_set_timer_desc",
+      "value": "Start 5 min countdown"
+    },
+    {
+      "name": "workout_title",
+      "value": "Workout"
+    },
+    {
+      "name": "call_title",
+      "value": "Contact"
+    },
+    {
+      "name": "timer_title",
+      "value": "Timer"
+    },
+    {
+      "name": "state_ready",
+      "value": "Ready"
+    },
+    {
+      "name": "button_stop",
+      "value": "Stop"
+    },
+    {
+      "name": "button_dismiss",
+      "value": "Dismiss"
+    },
+    {
+      "name": "button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "timer_minutes_suffix",
+      "value": "min"
+    }
+  ]
+}

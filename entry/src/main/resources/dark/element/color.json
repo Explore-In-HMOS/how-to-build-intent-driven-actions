@@ -1,0 +1,68 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#071211"
+    },
+    {
+      "name": "watch_bg",
+      "value": "#071211"
+    },
+    {
+      "name": "watch_surface",
+      "value": "#10201E"
+    },
+    {
+      "name": "watch_surface_alt",
+      "value": "#172522"
+    },
+    {
+      "name": "watch_text_primary",
+      "value": "#F4FBF9"
+    },
+    {
+      "name": "watch_text_secondary",
+      "value": "#A8BBB6"
+    },
+    {
+      "name": "watch_text_muted",
+      "value": "#6F8580"
+    },
+    {
+      "name": "watch_stroke",
+      "value": "#25433D"
+    },
+    {
+      "name": "workout_accent",
+      "value": "#34D399"
+    },
+    {
+      "name": "workout_surface",
+      "value": "#0D241B"
+    },
+    {
+      "name": "call_accent",
+      "value": "#7DD3FC"
+    },
+    {
+      "name": "call_surface",
+      "value": "#0D1D2B"
+    },
+    {
+      "name": "timer_accent",
+      "value": "#FBBF24"
+    },
+    {
+      "name": "timer_surface",
+      "value": "#261C0A"
+    },
+    {
+      "name": "danger_accent",
+      "value": "#FB7185"
+    },
+    {
+      "name": "button_text",
+      "value": "#071211"
+    }
+  ]
+}
